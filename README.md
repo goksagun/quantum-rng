@@ -16,3 +16,5 @@ For subsequent runs, there is no need to build it again. To run it, type the fol
 ```
 dotnet run --no-build
 ```
+
+More information https://docs.microsoft.com/en-us/quantum/tutorials/quantum-random-number-generator?tabs=tabid-qsharp.
